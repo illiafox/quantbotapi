@@ -4,7 +4,7 @@ This API opens up the possibility of transmitting data to the neurons of the bra
  **WARNING: ONLY FOR BOTS**
 
 
-We have seen a lot of stupid people in our life, so if your ~~friend/target/mother~~ has **internet (ip adress)**, you can send some data to **brain**!
+We have seen a lot of stupid people in our life, so if your ~~friend/target/mother~~ has **internet (ip adress)**, you can send some data to **their brains**!
 
 ### ***Instruction and requirements:***
 - Open your *C++ compiler* (I use Visual Studio 2019)
